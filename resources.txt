@@ -1,0 +1,16 @@
+﻿K;EN;PL
+K_play;PLAY;START
+K_options;OPTIONS;OPCJE
+K_instructions;INSTRUCTIONS;INSTRUKCJE
+K_quit;QUIT;WYJŚCIE
+K_back;BACK;WRÓĆ
+K_class;Class: ;Klasa: 
+K_player;Player;Gracz
+K_overall;Play out a battle of brave wizards! Lead your team to victory or succumb to your opponent!; Rozegraj walkę między dzielnymi czarodziejami! Poprowadź swoją drużynę do zwycięztwa albo ulegnij swojemu przeciwnikowi! 
+K_move;Move left-right;Ruch lewo-prawo
+K_up;Jump;Skok
+K_space;Shoot a bullet;Wystrzel pocisk
+K_b;Grenade - mouse coursor points throw direction;Granat - kursor myszy wskazuje kierunek rzutu
+K_tab;Change wizard;Zmiana czarodzieja
+K_win; wins!; wygrywa!
+K_press;Press ENTER to go back to MAIN MENU.;Wciśnij ENTER aby powrócić do MENU GŁÓWNEGO

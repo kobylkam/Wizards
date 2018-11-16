@@ -1,0 +1,7 @@
+;Variable;Value
+0;language;EN
+1;sound;1
+2;class1;sorcerer
+3;class2;warlock
+4;team1_name;Player 1
+5;team2_name;Player 2
